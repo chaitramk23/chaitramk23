@@ -1,16 +1,22 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chaitra+MK;CloudOps+with+Chaitra+☁️;DevOps+Engineer+from+India;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+🚀" />
-</p>
+<table align="center">
+<tr>
+<td>
 
----
+<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="250"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="300"/>
-</p>
+</td>
+
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=false&vCenter=true&width=450&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+CI%2FCD;Building+Cloud+Projects+🚀" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -21,6 +27,7 @@
 - 👯 Collaborating on **Cloud & DevOps Projects**
 - 💬 Ask me about **Docker, Kubernetes, AWS, Linux**
 - 📫 Contact **cmk6790@gmail.com**
+- 📍 **DevOps Engineer from Bengaluru**
 - ⚡ Fun fact: *I love debugging pipelines more than writing them 😄*
 
 ---
@@ -84,7 +91,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitramk23&theme=github-compact&color=00ff00"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitramk23&theme=github-compact&color=8A2BE2"/>
 </p>
 
 ---
@@ -104,5 +111,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:8A2BE2&height=120&section=footer"/>
 </p>
