@@ -8,55 +8,23 @@
 
 ---
 
-## 🖤 DevOps Tools & Profile
+## 🪐 DevOps Solar System
 
-<table>
-<tr>
+<p align="center">
 
-<td width="60%">
-
-### 🛠 DevOps Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux" /> Linux <br><br>
-
-<img src="https://skillicons.dev/icons?i=bash" /> Shell <br><br>
-
-<img src="https://skillicons.dev/icons?i=git" /> Git <br><br>
-
-<img src="https://skillicons.dev/icons?i=maven" /> Maven <br><br>
-
-<img src="https://skillicons.dev/icons?i=aws" /> AWS <br><br>
-
-<img src="https://skillicons.dev/icons?i=docker" /> Docker <br><br>
-
-<img src="https://skillicons.dev/icons?i=kubernetes" /> Kubernetes <br><br>
-
-<img src="https://skillicons.dev/icons?i=jenkins" /> Jenkins <br><br>
-
-<img src="https://skillicons.dev/icons?i=terraform" /> Terraform <br><br>
-
-<img src="https://skillicons.dev/icons?i=ansible" /> Ansible <br><br>
-
-<img src="https://skillicons.dev/icons?i=prometheus" /> Prometheus <br><br>
-
-<img src="https://skillicons.dev/icons?i=grafana" /> Grafana <br><br>
-
-<img src="https://skillicons.dev/icons?i=github" /> GitHub
+<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="260"/>
 
 </p>
 
-</td>
+<p align="center">
 
-<td width="40%" align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,sonarqube,elasticsearch,logstash,kibana,argocd&perline=8" />
 
-<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="300"/>
+</p>
 
-</td>
-
-</tr>
-</table>
+<p align="center">
+🪐 DevOps tools revolving around CloudOps with Chaitra 🚀
+</p>
 
 ---
 
@@ -92,6 +60,14 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
+</p>
+
+---
+
+## 🛠 DevOps Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,argocd,sonarqube" />
 </p>
 
 ---
