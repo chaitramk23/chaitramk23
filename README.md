@@ -1,29 +1,19 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:4B0082&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Building+CI%2FCD+Pipelines+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Linux+Git+Maven+AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible+Prometheus+Grafana;Building+CI%2FCD+Pipelines+🚀" />
 </p>
 
 ---
 
-## 🪐 DevOps Solar System
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="260"/>
-
+<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="320"/>
 </p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,sonarqube,elasticsearch,logstash,kibana,argocd&perline=8" />
-
-</p>
-
-<p align="center">
-🪐 DevOps tools revolving around CloudOps with Chaitra 🚀
+<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,argocd,sonarqube,elasticsearch,logstash,kibana,vscode,java&perline=14" />
 </p>
 
 ---
@@ -32,10 +22,10 @@
 
 - 🔭 Working on **CI/CD Pipeline using Jenkins, Docker, Kubernetes, AWS**
 - 🌱 Learning **AWS DevOps • Terraform • Kubernetes • CI/CD**
+- 📍 DevOps Engineer from **Bengaluru**
 - 👯 Collaborating on **Cloud & DevOps Projects**
 - 💬 Ask me about **Docker, Kubernetes, AWS, Linux**
 - 📫 Contact **cmk6790@gmail.com**
-- 📍 DevOps Engineer from Bengaluru
 - ⚡ Fun fact: *I love debugging pipelines more than writing them 😄*
 
 ---
@@ -67,7 +57,7 @@
 ## 🛠 DevOps Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,argocd,sonarqube" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,maven,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,bash,python,nginx,redis,mysql,postgres,azure,gcp,helm,argocd,sonarqube,elasticsearch,logstash,kibana,vscode,java&perline=10" />
 </p>
 
 ---
@@ -119,5 +109,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00008B&height=120&section=footer"/>
 </p>
