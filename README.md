@@ -3,22 +3,60 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chaitra+MK;CloudOps+with+Chaitra+☁️;DevOps+Engineer+from+Bengaluru;Building+CI%2FCD+Pipelines+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Building+CI%2FCD+Pipelines+🚀" />
 </p>
 
 ---
 
-<p align="center">
+## 🖤 DevOps Tools & Profile
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 🛠 DevOps Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux" /> Linux <br><br>
+
+<img src="https://skillicons.dev/icons?i=bash" /> Shell <br><br>
+
+<img src="https://skillicons.dev/icons?i=git" /> Git <br><br>
+
+<img src="https://skillicons.dev/icons?i=maven" /> Maven <br><br>
+
+<img src="https://skillicons.dev/icons?i=aws" /> AWS <br><br>
+
+<img src="https://skillicons.dev/icons?i=docker" /> Docker <br><br>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" /> Kubernetes <br><br>
+
+<img src="https://skillicons.dev/icons?i=jenkins" /> Jenkins <br><br>
+
+<img src="https://skillicons.dev/icons?i=terraform" /> Terraform <br><br>
+
+<img src="https://skillicons.dev/icons?i=ansible" /> Ansible <br><br>
+
+<img src="https://skillicons.dev/icons?i=prometheus" /> Prometheus <br><br>
+
+<img src="https://skillicons.dev/icons?i=grafana" /> Grafana <br><br>
+
+<img src="https://skillicons.dev/icons?i=github" /> GitHub
+
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
 <img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/main/CloudOps%20logo%20with%20Chaitra.png" width="300"/>
-</p>
 
----
+</td>
 
-## 🖤 Chaitra MK | DevOps Engineer
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Linux+Shell+Git+Maven;AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible;Prometheus+Grafana" />
-</p>
+</tr>
+</table>
 
 ---
 
@@ -54,14 +92,6 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
----
-
-## 🛠 DevOps Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,jenkins,bash,prometheus,grafana,python,maven,ansible" />
 </p>
 
 ---
