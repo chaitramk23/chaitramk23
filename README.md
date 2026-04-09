@@ -83,13 +83,17 @@
 
 ## 📈 Activity Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitramk23&theme=github-compact&color=00ff00"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/chaitramk23/chaitramk23/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/chaitramk23/chaitramk23/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
