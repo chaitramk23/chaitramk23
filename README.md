@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:4B0082&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:008000&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Linux+Git+Maven+AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible+Prometheus+Grafana;Building+CI%2FCD+Pipelines+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Linux+Git+Maven+AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible+Prometheus+Grafana;Building+CI%2FCD+Pipelines+🚀" />
 </p>
 
 ---
@@ -109,5 +109,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00008B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:00ff00&height=120&section=footer"/>
 </p>
