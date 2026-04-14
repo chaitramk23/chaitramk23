@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1f6feb&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0a192f&height=200&section=header&text=CloudOps%20with%20Chaitra&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Linux+Git+Maven+AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible+Prometheus+Grafana;Building+CI%2FCD+Pipelines+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=020617&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chaitra+MK;DevOps+Engineer+from+Bengaluru;CloudOps+with+Chaitra+☁️;Linux+Git+Maven+AWS+Docker+Kubernetes;Jenkins+Terraform+Ansible+Prometheus+Grafana;Building+CI%2FCD+Pipelines+🚀" />
 </p>
 
 ---
@@ -39,15 +39,15 @@
 </a>
 
 <a href="https://instagram.com/devops_with_chaitra">
-<img src="https://img.shields.io/badge/Instagram-1f6feb?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://medium.com/@chaitramk">
-<img src="https://img.shields.io/badge/Medium-0a192f?style=for-the-badge&logo=medium"/>
+<img src="https://img.shields.io/badge/Medium-020617?style=for-the-badge&logo=medium"/>
 </a>
 
 <a href="https://github.com/chaitramk23">
-<img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -57,7 +57,7 @@
 ## 🟦 GitHub Contribution
 
 <p align="center">
-<img src="https://ghchart.rshah.org/1f6feb/chaitramk23" />
+<img src="https://ghchart.rshah.org/020617/chaitramk23" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitramk23&theme=github-compact&color=1f6feb"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitramk23&theme=github-compact&color=020617"/>
 </p>
 
 ---
@@ -101,5 +101,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0a192f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:020617&height=120&section=footer"/>
 </p>
